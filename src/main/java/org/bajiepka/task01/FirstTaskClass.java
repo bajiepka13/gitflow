@@ -18,4 +18,6 @@ public class FirstTaskClass {
 
     private String firtsFeatureFifthCommit;
 
+    private String firstFeatureSixthCommit;
+
 }
