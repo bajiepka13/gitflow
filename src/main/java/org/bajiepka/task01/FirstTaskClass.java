@@ -6,4 +6,6 @@ public class FirstTaskClass {
 
     private String secondFeature;
 
+    private String secondFeatureSomeChanges;
+
 }
