@@ -8,4 +8,6 @@ public class FirstTaskClass {
 
     private String firstFeatureChanges;
 
+    private String secondFeatureChanges;
+
 }
