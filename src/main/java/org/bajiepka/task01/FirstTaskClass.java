@@ -20,4 +20,6 @@ public class FirstTaskClass {
 
     private String firstFeatureSixthCommit;
 
+    private String devChanges;
+
 }
