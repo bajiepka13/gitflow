@@ -4,6 +4,8 @@ public class FirstTaskClass {
 
     private String firstCommit;
 
+    private String secondFeature;
+
     private String firstFeature;
 
     private String firstFeatureChanges;
